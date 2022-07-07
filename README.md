@@ -14,13 +14,13 @@
 <table width="100">
   <tr>
     <td align='center' width="190">
-      <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-black-logo.svg" width="60">
+      <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center' width="190">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png">
+      <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-black-logo.svg">
     </td>
     <td align='center'>
       <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
