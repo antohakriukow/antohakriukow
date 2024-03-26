@@ -1,15 +1,13 @@
-<h2 align='center'> <i>Hello, I'm Anton 👋 <i/></h2> 
+<h2 align='left'> <i>Hello 👋 <i/></h2> 
 
-<p align='center'>
+<p align='left'>
   <i>
-    <p>👨🏽‍💻 After completing Yandex Practikum web-developer course & making some pet-projects I finally decided to find a job.</p>
-    <p>😎 If you read this text, I'm almost sure that you can invite me for an interview or offer to complete a test task.</p>
-    <p>🚀 In this case, I can only say one thing: JUST DO IT!</p>
+    <p>😎 I'm frontend developer, now looking for intresting project full-time.</p>
   </i>
 </p>
 
 
-<h2 align='center'><i>Languages and Tools</i></h2>
+<h2 align='left'><i>Stack</i></h2>
 
 <table width="100">
   <tr>
