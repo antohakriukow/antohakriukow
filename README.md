@@ -31,13 +31,13 @@
       <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg">
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
     </td>
     <td align='center'  width="190">
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
