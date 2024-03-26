@@ -12,7 +12,7 @@
 <table width="100">
   <tr>
     <td align='center' width="190">
-      <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -20,15 +20,16 @@
     <td align='center' width="190">
       <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-black-logo.svg">
     </td>
-    <td align='center'>
-      <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="60">
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg" width="60">
     </td>
+    
   </tr>
     <td align='center'>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+      <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg" width="120">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="60">
@@ -36,11 +37,11 @@
     <td align='center'>
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
     </td>
+    <td align='center'>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
     <td align='center'  width="190">
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-    <td align='center' width="190">
-      <img src="https://github.com/detain/svg-logos/blob/master/svg/git.svg" width="60">
     </td>
   </tr>
 </table>
