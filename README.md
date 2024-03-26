@@ -1,6 +1,6 @@
 <p align='left'>
   <i>
-    <p>😎 looking for interesting full-time project.</p>
+    <p>👋 I'm looking for an interesting project. if you have one, contact me.</p>
   </i>
 </p>
 
