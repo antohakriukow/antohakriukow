@@ -1,5 +1,3 @@
-![image](https://github.com/antohakriukow/antohakriukow/assets/68055181/8c9ac387-23ec-4af2-b9e1-2b4ff16c2a1b)<h2 align='left'> <i>Hello 👋 <i/></h2> 
-
 <p align='left'>
   <i>
     <p>😎 looking for interesting full-time project.</p>
