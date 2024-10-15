@@ -10,7 +10,7 @@
 <table width="100">
   <tr>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -19,28 +19,11 @@
       <img src="https://assets.vercel.com/image/upload/q_auto/front/assets/design/nextjs-black-logo.svg">
     </td>
     <td align='center' width="190">
-      <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg">
-    </td>
-    <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-    </td>
-  </tr>
-    <td align='center' width="190">
-      <img src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg">
+      <img src="https://static-00.iconduck.com/assets.00/redux-icon-512x486-1n8k02rk.png">
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
     </td>
-    <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
-    <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
-    </td>
-    <td align='center'  width="190">
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
-    </td>
-  </tr>
 </table>
 
 <h2><i>Contacts</i></h2>
